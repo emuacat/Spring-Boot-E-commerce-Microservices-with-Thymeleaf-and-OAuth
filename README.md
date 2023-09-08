@@ -1,4 +1,4 @@
-```
+
 # Spring Boot E-commerce Microservices with Thymeleaf and OAuth
 
 Develop a full-stack e-commerce application using Spring Boot and Thymeleaf. The backend will be structured as microservices, and the frontend will utilize Thymeleaf templates. The application will be secured using Spring Security and OAuth.
@@ -26,4 +26,4 @@ Spring Boot is an open-source, Java-based framework ideal for creating microserv
 - Implement an `Inventory Service` to manage available items.
 - Expand the service functionalities.
 - Introduce the capability to remove items from the cart.
-```
+
